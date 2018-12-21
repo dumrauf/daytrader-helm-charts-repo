@@ -1,0 +1,63 @@
+apiVersion: v1
+entries:
+  daytrader:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-21T00:11:30.626039615Z
+    description: A Helm chart for DayTrader
+    digest: fe67b2e6a92c032ddbecbd618d0ec71c45441a506dcaac3bd3374b998fbd8c4c
+    name: daytrader
+    urls:
+    - daytrader-1.0.17.tgz
+    version: 1.0.17
+  daytrader-accounts:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-21T00:11:30.626281426Z
+    description: A Helm chart for DayTrader Accounts
+    digest: 8b287ec2719c6d47add11eb5ddb34c248061c4af3824bf52b616dff8a4e0c28a
+    name: daytrader-accounts
+    urls:
+    - daytrader-accounts-1.0.17.tgz
+    version: 1.0.17
+  daytrader-gateway:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-21T00:11:30.626523135Z
+    description: A Helm chart for DayTrader Gateway
+    digest: 23e2a81041efe3974b44b4e307cd5145f65108457fe066bf496ece5955ae4af7
+    name: daytrader-gateway
+    urls:
+    - daytrader-gateway-1.0.17.tgz
+    version: 1.0.17
+  daytrader-portfolios:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-21T00:11:30.626759035Z
+    description: A Helm chart for DayTrader Portfolios
+    digest: b84322b539a5447c5bff826ae8462caf8fe7ff0abc904649fbca813adeaa12a4
+    name: daytrader-portfolios
+    urls:
+    - daytrader-portfolios-1.0.17.tgz
+    version: 1.0.17
+  daytrader-quotes:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-21T00:11:30.626988147Z
+    description: A Helm chart for DayTrader Quotes
+    digest: f4fd92f6db3811c864e8ce4436e75ea68d2f31d8b34b7165781942b3273a628f
+    name: daytrader-quotes
+    urls:
+    - daytrader-quotes-1.0.17.tgz
+    version: 1.0.17
+  daytrader-web:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2018-12-21T00:11:30.627896345Z
+    description: A Helm chart for DayTrader Web
+    digest: 68c748c7d8aa326d9dd1b5f0c2928855ef466e1389e1f140fe6db9d80ea7d86e
+    name: daytrader-web
+    urls:
+    - daytrader-web-1.0.17.tgz
+    version: 1.0.17
+generated: 2018-12-21T00:11:30.624554985Z
